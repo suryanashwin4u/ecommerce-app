@@ -4,4 +4,8 @@ create an expo project:
 start your project:
 =>expo start
 
-https://www.youtube.com/watch?v=dfoZj7DPSAs&ab_channel=SujanAnand
+youtube project link:
+=>https://www.youtube.com/watch?v=dfoZj7DPSAs&ab_channel=SujanAnand
+
+ecommerce app code link:
+=>https://github.com/SSA-988/ecommerce-app.git
